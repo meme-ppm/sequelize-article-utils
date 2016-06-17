@@ -1,0 +1,31 @@
+{
+  "name": "sequelize-article-utils",
+  "version": "1.0.0",
+  "description": "Add a set of usefull functions to a blog article: comments, favorits etc.. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meme-ppm/sequelize-article-utils.git"
+  },
+  "keywords": [
+    "sequelize",
+    "blog",
+    "article"
+  ],
+  "author": "mémé",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/meme-ppm/sequelize-article-utils/issues"
+  },
+  "homepage": "https://github.com/meme-ppm/sequelize-article-utils#readme",
+  "dependencies": {
+    "sequelize": "^3.23.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "pg": "^5.0.0"
+  }
+}
