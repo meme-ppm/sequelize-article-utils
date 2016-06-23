@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/meme-ppm/sequelize-article-utils#readme",
   "dependencies": {
-    "sequelize": "^3.23.3"
+    "sequelize": "^3.23.3",
+    "sequelize-user": "^1.0.2"
   },
   "devDependencies": {
     "chai": "^3.5.0",
